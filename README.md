@@ -1,4 +1,4 @@
-## Домашнее задание 15. Разбор выражений на Prolog
+## Домашнее задание 15. [Разбор выражений на Prolog](https://github.com/iskbaga/paradigms-itmo/blob/main/prolog-solutions/expression.pl)
 
 Модификации
  * *VarBoolean* (36, 37). Сделать модификацию *Variables* и дополнительно реализовать поддержку:
@@ -11,7 +11,7 @@
         * `op_xor` (`^^`) - исключающее или: `5 ^ -6` равно 1
 
 
-## Домашнее задание 14. Дерево поиска на Prolog
+## Домашнее задание 14. [Дерево поиска на Prolog](https://github.com/iskbaga/paradigms-itmo/blob/main/prolog-solutions/tree-map.pl)
 
 Модификации
  * *PutIfAbsent* (36, 37)
@@ -19,7 +19,7 @@
         добавляющее новый ключ и значение.
 
 
-## Домашнее задание 13. Простые числа на Prolog
+## Домашнее задание 13. [Простые числа на Prolog](https://github.com/iskbaga/paradigms-itmo/blob/main/prolog-solutions/primes.pl)
 
 Модификации
  * *Compact* (36, 37)
@@ -28,7 +28,7 @@
         `compact_prime_divisors(120, [(2, 3), (3, 1), (5, 1)])`.
 
 
-## Домашнее задание 11. Объектные выражения на Clojure
+## Домашнее задание 11. [Объектные выражения на Clojure](https://github.com/iskbaga/paradigms-itmo/blob/main/clojure-solutions/expression.clj)
 
 Модификации
  * *MeansqRMS* (36, 37). Дополнительно реализовать поддержку:
@@ -37,7 +37,7 @@
         * `RMS` (`rms`) – [Root mean square](https://en.wikipedia.org/wiki/Root_mean_square), `(rms 2 10 22)` равно 14;
 
 
-## Домашнее задание 10. Функциональные выражения на Clojure
+## Домашнее задание 10. [Функциональные выражения на Clojure](https://github.com/iskbaga/paradigms-itmo/blob/main/clojure-solutions/expression.clj)
 
 Модификации
  * *SumexpLSE* (36, 37). Дополнительно реализовать поддержку:
@@ -46,7 +46,7 @@
         * `lse` – [LogSumExp](https://en.wikipedia.org/wiki/LogSumExp), `(lse 2 3 16)` примерно равно 16;
 
 
-## Домашнее задание 9. Линейная алгебра на Clojure
+## Домашнее задание 9. [Линейная алгебра на Clojure](https://github.com/iskbaga/paradigms-itmo/blob/main/clojure-solutions/linear.clj)
 
 Модификации
  * *Tensor* (36, 37)
@@ -58,7 +58,7 @@
         должно быть равно `[[6 8] [10 12]]`.
 
 
-## Домашнее задание 8. Обработка ошибок на JavaScript
+## Домашнее задание 8. [Обработка ошибок на JavaScript](https://github.com/iskbaga/paradigms-itmo/blob/main/javascript-solutions/objectExpression.js)
 
 Модификации
  * *Postfix* (36-39). Дополнительно реализовать поддержку:
@@ -74,7 +74,7 @@
         * `LSE` (`lse`) – [LogSumExp](https://en.wikipedia.org/wiki/LogSumExp), `(2 3 16 lse)` примерно равно 16;
 
 
-## Домашнее задание 7. Объектные выражения на JavaScript
+## Домашнее задание 7. [Объектные выражения на JavaScript](https://github.com/iskbaga/paradigms-itmo/blob/main/javascript-solutions/objectExpression.js)
 
 Модификации
  * *Distance* (36, 37). Дополнительно реализовать поддержку:
@@ -83,7 +83,7 @@
         * `DistanceN` (`distanceN`) – длина вектора, `3 4 distance2` равно 5.
 
 
-## Домашнее задание 6. Функциональные выражения на JavaScript
+## Домашнее задание 6. [Функциональные выражения на JavaScript](https://github.com/iskbaga/paradigms-itmo/blob/main/javascript-solutions/functionalExpression.js)
 
 Модификации
  * *OneTwo* (32-39). Дополнительно реализовать поддержку:
@@ -97,7 +97,7 @@
         * `^` (`ceil`) – округление вверх `2.7 ^` равно 3.
 
 
-## Домашнее задание 5. Вычисление в различных типах
+## Домашнее задание 5. [Вычисление в различных типах](https://github.com/iskbaga/paradigms-itmo/tree/main/java-solutions/expression)
 
 Модификации
  * *Asm* (36-39)
@@ -113,7 +113,7 @@
         * `s` – вычисления в `short` без проверки на переполнение.
 
 
-## Домашнее задание 4. Очереди
+## Домашнее задание 4. [Очереди](https://github.com/iskbaga/paradigms-itmo/tree/main/java-solutions/queue)
 
 Модификации
  * *Contains* (36, 37)
@@ -124,7 +124,7 @@
     * Дублирования кода быть не должно
 
 
-## Домашнее задание 3. Очередь на массиве
+## Домашнее задание 3. [Очередь на массиве](https://github.com/iskbaga/paradigms-itmo/tree/main/java-solutions/queue)
 
 Модификации
  * *Deque*
@@ -139,7 +139,7 @@
       от головы к хвосту.
 
 
-## Домашнее задание 2. Бинарный поиск
+## Домашнее задание 2. [Бинарный поиск](https://github.com/iskbaga/paradigms-itmo/tree/main/java-solutions/search)
 
 Модификации
  * *Oddity* (32 - 37)
@@ -153,7 +153,7 @@
     * Класс должен иметь имя `BinarySearchUni`
 
 
-## Домашнее задание 1. Обработка ошибок
+## Домашнее задание 1. [Обработка ошибок](https://github.com/iskbaga/paradigms-itmo/tree/main/java-solutions/expression)
 
 Модификации
  * *SetClear* (32-37)
