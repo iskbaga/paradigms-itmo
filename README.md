@@ -28,29 +28,6 @@
         `compact_prime_divisors(120, [(2, 3), (3, 1), (5, 1)])`.
 
 
-## Исходный код к лекциям по Prolog
-
-Запуск Prolog
- * [Windows](prolog/RunProlog.cmd)
- * [*nix](prolog/RunProlog.sh)
-
-Лекция 1. Факты, правила и вычисления
- * [Учебный план](prolog/examples/1_1_plan.pl)
- * [Вычисления](prolog/examples/1_2_calc.pl)
- * [Списки](prolog/examples/1_3_lists.pl)
- * [Правила высшего порядка](prolog/examples/1_4_high-order.pl)
-
-Лекция 2. Задачи, унификация и объекты
- * [Задача о расстановке ферзей](prolog/examples/2_1_queens.pl)
- * [Задача Эйнштейна](prolog/examples/2_2_einstein.pl)
- * [Арифметические выражения](prolog/examples/2_3_expressions.pl)
-
-Лекция 3. Преобразование в строку и разбор
- * [Преобразование через термы](prolog/examples/3_1_terms.pl)
- * [Преобразование через списки](prolog/examples/3_2_chars.pl)
- * [Грамматики](prolog/examples/3_3_grammar.pl)
-
-
 ## Домашнее задание 11. Объектные выражения на Clojure
 
 Модификации
