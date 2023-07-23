@@ -1,0 +1,4 @@
+package expression.parser;
+public enum Token {
+    ADD, SUB, MUL, DIV, CLEAR, COUNT, SET, LOG10, POW10, VAR, CONST, BRACKET_OPEN, BRACKET_CLOSE, END, UNDEFINED, EXCEPTION, ABS, MOD, SQUARE
+}
