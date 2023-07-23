@@ -1,3 +1,6 @@
+# Решения домашних заданий курса «Парадигмы программирования»
+[Условия домашних заданий](https://www.kgeorgiy.info/courses/paradigms/homeworks.html)
+
 ## Домашнее задание 15. [Разбор выражений на Prolog](https://github.com/iskbaga/paradigms-itmo/blob/main/prolog-solutions/expression.pl)
 
 Модификации
